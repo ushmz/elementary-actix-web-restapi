@@ -1,0 +1,9 @@
+[package]
+name = "elementary-actix-web-restapi"
+version = "0.1.0"
+authors = ["Yusuke Shimizu <44394399+ushmz@users.noreply.github.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
